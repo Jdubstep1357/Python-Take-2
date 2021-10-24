@@ -14,9 +14,11 @@ print(max(1, 2, -5, 10, 0))
 
 # prints out smallest number
 print(min(1, 2, -5, 10, 0))
+6
 
 #prints out power of object
 print(pow(2, 3))
 
 #rounds nearest ineger
 print(round(51.6))
+
